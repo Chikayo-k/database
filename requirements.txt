@@ -11,3 +11,4 @@ psycopg2==2.9.9
 SQLAlchemy==1.4.18
 Werkzeug==2.0.1
 zipp==3.18.1
+urllib3==1.26.15
